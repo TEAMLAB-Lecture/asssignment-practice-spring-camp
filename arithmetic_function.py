@@ -38,7 +38,6 @@ def minus(a, b):
     # ===Modify codes below=============
 
     result = a - b
-    #result = 5
 
     # ==================================
 
